@@ -1,22 +1,45 @@
+body{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
 .contact-card {
   display: flex;
-  padding: 10px;
+  padding: 12px;
   color: #ffffff;
-  background-color: rgb(42, 84, 104);
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  box-shadow: 10px 10px 25px -16px rgba(0, 0, 0, 0.75);
-  border-radius: 10px;
+  background-color: rgb(12, 210, 167);
+  box-shadow: 10px 10px 35px -15px rgba(4, 140, 120, 0.747);
+  border-radius: 15px;
   max-width: 500px;
-  max-height: 125px;
-  margin-bottom: 10px;
+  min-width: 430px;
+  height: 130px;
+  margin: 10px;
 }
 
 .contact-card p {
-  margin-left: 10px;
+  margin-left: 12px;
   margin-top: 0;
 }
 
+img{
+  border-radius: 12px;
+  box-shadow: 2px 2px 6px #0b8c6e9d;
+}
+
 button {
-  margin-left: 10px;
+  cursor: pointer;
+  background-color: rgb(147, 252, 217);
+  margin-left: 12px;
   margin-bottom: 10px;
+  padding: 4px 4px;
+  border-radius: 8px;
+  border-style: none;
 }
