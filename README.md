@@ -1,3 +1,5 @@
-# Learning React by creating a small contacts list
+# Contacts List
 
-### Thanks to Chris Blakely for the  tutorial!
+### Shows a list of random users data fetched using an API, with their image, name and button to show/hide age.
+
+Followed Chris Blakely's tutorial for this.
