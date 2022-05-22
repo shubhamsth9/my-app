@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shubhamxthakur/my-app/static/css/main.c2403215.css",
-    "main.js": "/shubhamxthakur/my-app/static/js/main.5c90cba1.js",
-    "static/js/787.28cb0dcd.chunk.js": "/shubhamxthakur/my-app/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/shubhamxthakur/my-app/index.html",
-    "main.c2403215.css.map": "/shubhamxthakur/my-app/static/css/main.c2403215.css.map",
-    "main.5c90cba1.js.map": "/shubhamxthakur/my-app/static/js/main.5c90cba1.js.map",
-    "787.28cb0dcd.chunk.js.map": "/shubhamxthakur/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/shubhamxthakur.github.io/my-app/static/css/main.c2403215.css",
+    "main.js": "/shubhamxthakur.github.io/my-app/static/js/main.60eb155f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/shubhamxthakur.github.io/my-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/shubhamxthakur.github.io/my-app/index.html",
+    "main.c2403215.css.map": "/shubhamxthakur.github.io/my-app/static/css/main.c2403215.css.map",
+    "main.60eb155f.js.map": "/shubhamxthakur.github.io/my-app/static/js/main.60eb155f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/shubhamxthakur.github.io/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2403215.css",
-    "static/js/main.5c90cba1.js"
+    "static/js/main.60eb155f.js"
   ]
 }
