@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.c2403215.css",
-    "main.js": "/my-app/static/js/main.affa1e48.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.c2403215.css.map": "/my-app/static/css/main.c2403215.css.map",
-    "main.affa1e48.js.map": "/my-app/static/js/main.affa1e48.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/shubhamxthakur.github.io/my-app/static/css/main.c2403215.css",
+    "main.js": "/shubhamxthakur.github.io/my-app/static/js/main.60eb155f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/shubhamxthakur.github.io/my-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/shubhamxthakur.github.io/my-app/index.html",
+    "main.c2403215.css.map": "/shubhamxthakur.github.io/my-app/static/css/main.c2403215.css.map",
+    "main.60eb155f.js.map": "/shubhamxthakur.github.io/my-app/static/js/main.60eb155f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/shubhamxthakur.github.io/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2403215.css",
-    "static/js/main.affa1e48.js"
+    "static/js/main.60eb155f.js"
   ]
 }
